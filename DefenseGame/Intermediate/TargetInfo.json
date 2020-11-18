@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "DefenseGame",
+			"Path": "C:\\Users\\user\\Desktop\\Unreal_Practice_DefenseGame\\DefenseGame\\Source\\DefenseGame.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "DefenseGameEditor",
+			"Path": "C:\\Users\\user\\Desktop\\Unreal_Practice_DefenseGame\\DefenseGame\\Source\\DefenseGameEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

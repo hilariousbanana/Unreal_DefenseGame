@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\DefenseGame.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{5F640AD9-5E42-4A8D-8FF2-F3DF43158780}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\DefenseGame.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\DefenseGameEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{CA083A5C-9DA6-48F5-8B1C-B99BAE3C5C59}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\DefenseGame">
+      <UniqueIdentifier>{C890D64E-DA0D-497E-8763-00AFD830132B}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\DefenseGame\DefenseGame.Build.cs">
+      <Filter>Source\DefenseGame</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\DefenseGame\DefenseGame.cpp">
+      <Filter>Source\DefenseGame</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\DefenseGame\DefenseGame.h">
+      <Filter>Source\DefenseGame</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\DefenseGame\DefenseGameCharacter.cpp">
+      <Filter>Source\DefenseGame</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\DefenseGame\DefenseGameCharacter.h">
+      <Filter>Source\DefenseGame</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\DefenseGame\DefenseGameGameMode.cpp">
+      <Filter>Source\DefenseGame</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\DefenseGame\DefenseGameGameMode.h">
+      <Filter>Source\DefenseGame</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\DefenseGame\DefenseGamePlayerController.cpp">
+      <Filter>Source\DefenseGame</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\DefenseGame\DefenseGamePlayerController.h">
+      <Filter>Source\DefenseGame</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
