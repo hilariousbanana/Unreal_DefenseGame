@@ -3,7 +3,7 @@
   <ItemGroup>
     <None Include="..\..\DefenseGame.uproject" />
     <Filter Include="Source">
-      <UniqueIdentifier>{5F640AD9-5E42-4A8D-8FF2-F3DF43158780}</UniqueIdentifier>
+      <UniqueIdentifier>{18D37346-A077-4794-91B7-951148A2889B}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\DefenseGame.Target.cs">
       <Filter>Source</Filter>
@@ -12,7 +12,7 @@
       <Filter>Source</Filter>
     </None>
     <Filter Include="Config">
-      <UniqueIdentifier>{CA083A5C-9DA6-48F5-8B1C-B99BAE3C5C59}</UniqueIdentifier>
+      <UniqueIdentifier>{F0ACA10E-99C7-40FE-B7CC-626D2A5C1D74}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Config\DefaultEditor.ini">
       <Filter>Config</Filter>
@@ -30,7 +30,7 @@
       <Filter>Config</Filter>
     </None>
     <Filter Include="Source\DefenseGame">
-      <UniqueIdentifier>{C890D64E-DA0D-497E-8763-00AFD830132B}</UniqueIdentifier>
+      <UniqueIdentifier>{31B17C25-A8E6-4750-ABD7-EDE40D74386E}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\DefenseGame\DefenseGame.Build.cs">
       <Filter>Source\DefenseGame</Filter>

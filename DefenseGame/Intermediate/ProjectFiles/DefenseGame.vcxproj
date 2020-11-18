@@ -51,7 +51,7 @@
     </ProjectConfiguration>
   </ItemGroup>
   <PropertyGroup Label="Globals">
-    <ProjectGuid>{EE876FA9-583B-45AC-AD46-A4487A2E013F}</ProjectGuid>
+    <ProjectGuid>{09AB1BD3-B13C-475A-9736-F7DB6493E253}</ProjectGuid>
     <Keyword>MakeFileProj</Keyword>
     <RootNamespace>DefenseGame</RootNamespace>
     <PlatformToolset>v142</PlatformToolset>
