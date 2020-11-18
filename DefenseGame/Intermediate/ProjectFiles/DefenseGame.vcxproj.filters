@@ -3,7 +3,7 @@
   <ItemGroup>
     <None Include="..\..\DefenseGame.uproject" />
     <Filter Include="Source">
-      <UniqueIdentifier>{18D37346-A077-4794-91B7-951148A2889B}</UniqueIdentifier>
+      <UniqueIdentifier>{C1B22B40-2C46-4DE0-9394-646FCB297752}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\DefenseGame.Target.cs">
       <Filter>Source</Filter>
@@ -12,7 +12,7 @@
       <Filter>Source</Filter>
     </None>
     <Filter Include="Config">
-      <UniqueIdentifier>{F0ACA10E-99C7-40FE-B7CC-626D2A5C1D74}</UniqueIdentifier>
+      <UniqueIdentifier>{DB67AC23-D89E-4A5E-8E0A-545EA7C86012}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Config\DefaultEditor.ini">
       <Filter>Config</Filter>
@@ -30,7 +30,7 @@
       <Filter>Config</Filter>
     </None>
     <Filter Include="Source\DefenseGame">
-      <UniqueIdentifier>{31B17C25-A8E6-4750-ABD7-EDE40D74386E}</UniqueIdentifier>
+      <UniqueIdentifier>{2EC22970-EA43-4553-8B2E-57E534DC245B}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\DefenseGame\DefenseGame.Build.cs">
       <Filter>Source\DefenseGame</Filter>
@@ -58,6 +58,36 @@
     </ClCompile>
     <ClInclude Include="..\..\Source\DefenseGame\DefenseGamePlayerController.h">
       <Filter>Source\DefenseGame</Filter>
+    </ClInclude>
+    <Filter Include="Source\DefenseGame\Private">
+      <UniqueIdentifier>{42ED179A-377B-472D-9EAC-D8EC81EB061B}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\DefenseGame\Private\Enemy.cpp">
+      <Filter>Source\DefenseGame\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\DefenseGame\Private\MyAnimInstance.cpp">
+      <Filter>Source\DefenseGame\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\DefenseGame\Private\MyGameModeBase.cpp">
+      <Filter>Source\DefenseGame\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\DefenseGame\Private\MyPawn.cpp">
+      <Filter>Source\DefenseGame\Private</Filter>
+    </ClCompile>
+    <Filter Include="Source\DefenseGame\Public">
+      <UniqueIdentifier>{471B8C62-8536-4B98-A7E9-0BBA2269571C}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Source\DefenseGame\Public\Enemy.h">
+      <Filter>Source\DefenseGame\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\DefenseGame\Public\MyAnimInstance.h">
+      <Filter>Source\DefenseGame\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\DefenseGame\Public\MyGameModeBase.h">
+      <Filter>Source\DefenseGame\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\DefenseGame\Public\MyPawn.h">
+      <Filter>Source\DefenseGame\Public</Filter>
     </ClInclude>
   </ItemGroup>
 </Project>
